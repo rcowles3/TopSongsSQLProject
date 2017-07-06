@@ -1,0 +1,15 @@
+{
+  "name": "topsongsdbactivity",
+  "version": "1.0.0",
+  "description": "A node application that queries our top songs database on our local host",
+  "main": "topSongsCode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Cowles",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^3.1.1",
+    "mysql": "^2.13.0"
+  }
+}
