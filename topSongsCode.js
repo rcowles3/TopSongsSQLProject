@@ -10,11 +10,11 @@ var inquirer = require('inquirer');
 // ===============================================================
 
 var connection = mysql.createConnection({
-    host: 'localhost', // update with host
-    port: 3306, // update with port
-    user: 'root', // update with user id
-    password: 'Fdd4e!i$f$', // update with user password
-    database: 'TOP_SONGS' // update with created database
+    host: '', // update with host
+    port: , // update with port
+    user: '', // update with user id
+    password: '', // update with user password
+    database: '' // update with created database
 });
 
 // connecting to db, and displaying connection id
